@@ -1,0 +1,13 @@
+Como reutilizar em outro projeto
+Copie a pasta login-cadastro-modulo/ para seu novo projeto.
+
+No seu sistema, inclua o auth_module/pages/home.php como página protegida.
+
+Use os includes como estão. Você pode customizar:
+
+Estilo no style.css
+
+HTML no cadastro.php e login.php
+
+A tabela usuarios se quiser adicionar campos (ex: avatar, admin etc.)
+
